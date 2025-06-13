@@ -14,6 +14,7 @@ export default {
       colors: {
         'praxised-blue': '#2255A1',
         'praxised-teal': '#4ECDC4',
+        'praxised-sky': '#38bdf8'
       }
     },
   },
