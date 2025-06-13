@@ -10,6 +10,10 @@ export default {
         'laptop': { 'raw': '(min-width: 1024px)' },
         'tablet': { 'raw': '(min-width: 768px) and (max-width: 1023px)' },
         'mobile': { 'raw': '(max-width: 767px)' }
+      },
+      colors: {
+        'praxised-blue': '#2255A1',
+        'praxised-teal': '#4ECDC4',
       }
     },
   },
